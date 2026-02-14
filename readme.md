@@ -1,4 +1,4 @@
-# SPY Options Pricing Engine (Model‑Free)
+**# SPY Options Pricing Engine (Model‑Free)
 
 Turn listed **SPY call options** into a **model‑free pricing and hedging engine**. From today’s SPY call prices we recover the implied risk‑neutral distribution, price custom payoffs, replicate them statically with listed calls, and check for cross‑expiry inconsistencies.
 
@@ -63,4 +63,4 @@ Turn listed **SPY call options** into a **model‑free pricing and hedging engin
 ---
 
 ## TL;DR
-For **SPY**, this gives a fast, transparent way to **read the market’s distribution**, **price & build custom payoffs from listed options**, and **spot cross‑expiry inconsistencies**—with minimal assumptions and compute.
+For **SPY**, this gives a fast, transparent way to **read the market’s distribution**, **price & build custom payoffs from listed options**, and **spot cross‑expiry inconsistencies**—with minimal assumptions and compute.******
